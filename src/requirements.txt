@@ -1,3 +1,10 @@
-fastapi>=0.68.0,<0.69.0
-pydantic>=1.8.0,<2.0.0
-uvicorn>=0.15.0,<0.16.0
+fastapi
+pydantic
+uvicorn
+load_dotenv
+azure-identity
+azure-storage-blob
+azure-ai-vision-imageanalysis
+azure-core
+matplotlib
+pillow
